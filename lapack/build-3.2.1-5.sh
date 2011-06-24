@@ -3,9 +3,9 @@
 # Name of package
 PKG=lapack
 # Version of Package
-VER=3.2.1
+VER=3.3.1
 # Release of (this patched) package
-REL=5
+REL=1
 # Name&Version of Package
 PKGVER=${PKG}-${VER}
 # Full name of this patched Package
